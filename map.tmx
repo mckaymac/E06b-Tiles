@@ -96,12 +96,12 @@
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <layer id="1" name="Platforms" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+   eJxjYBgFMCANxMx48GAFMHfLDLRDyAC0cDs3Fc0CAfR0wU0DO7CBUXtG7QEB5PRHbD6hhruk8dhHa79zM9DWDm4G2tqBbj4I46tbqIUBILQCvA==
   </data>
  </layer>
  <layer id="2" name="Coins" width="25" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+   eJxjYBgaQJQAHqxgKLgRG6Bl+FLbXGxupUd40ytOR+0Z3PbA7CI2XVM73dPKfHR76JW3BtJ8QvUMsXigAAAzZATt
   </data>
  </layer>
 </map>
